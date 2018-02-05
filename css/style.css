@@ -146,6 +146,20 @@ h2
 }
 /* end accordance div */
 
+
+  @media screen and (min-width: 320px) and (max-width: 479px) {
+    
+      .headertxt {
+    font-size: 11px;
+    float: right;
+    margin-right: 1px; 
+  }
+  .logo
+{
+    background-image: url('../img/logo_small.png');
+    width: 100px;
+  }
+    }
 @media screen and (max-width: 480px) {
 
 .logo
